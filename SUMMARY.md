@@ -1,3 +1,2 @@
 # Summary
-
-* [Books of the Year 2016](chapter/books/2016.md)
+* [外军研究：美军士官制度观察](chapter/army/Sergeant.md)
