@@ -43,10 +43,13 @@
 >美军从新兵训练开始，就包含了一系列战伤救治训练科目，游骑兵等特种部队的竞赛中还包含了复杂战术背景下的救治科目。
 
 新兵静脉注射训练中，更是要求所有人拿队友，真刀真枪的扎！
-
 游骑兵特种部队－战术背景下的救治
-
 游骑兵特种部队竞赛－战术背景下的救治处置
+
+![](http://ombx24fbq.bkt.clouddn.com/USArmy-MT-Education-1.png)
+![](http://ombx24fbq.bkt.clouddn.com/USArmy-MT-Education-2.png)
+![](http://ombx24fbq.bkt.clouddn.com/USArmy-MT-Education-3.png)
+![](http://ombx24fbq.bkt.clouddn.com/USArmy-MT-Education-4.png)
 
 
 ## 官兵一致
@@ -76,6 +79,12 @@
 统一教官标准：按纲施训，不求个体最优，但求总体提升。
 分级竞赛：技术上从初级到高级逐步提高难度，课程体系上区分不同作战单位，可以看得出非常重视提高学员组织训练能力。
 促进交流：每年轮训的学员来自全球各个基地，不断的比赛切磋，可以激励日常训练，不但提高了教官群体的整体水平，而且从中脱颖而出的人，又可以作为高级教官的种子。
+![](http://ombx24fbq.bkt.clouddn.com/USArmy-PHT-Education-1.png)
+
+![](http://ombx24fbq.bkt.clouddn.com/USArmy-PHT-Training-2.png)
+![](http://ombx24fbq.bkt.clouddn.com/USArmy-PHT-Training-3.png)
+![](http://ombx24fbq.bkt.clouddn.com/USArmy-PHT-Training-4.png)
+![](http://ombx24fbq.bkt.clouddn.com/USArmy-PHT-Training-5.png)
 
 
 ## 关于美军中的各种学校
