@@ -24,7 +24,7 @@
 
 ### VERSION 1.0.1-201702
 
-https://www.gitbook.com/book/riboseyim/ebook-economist/details
+https://www.gitbook.com/book/riboseyim/manager/details
 
 ## Thanks
 
