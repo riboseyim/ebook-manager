@@ -112,5 +112,9 @@
 5、[法国授勋及嘉奖制度](https://zh.wikipedia.org/wiki/%E6%B3%95%E5%9C%8B%E6%8E%88%E5%8B%B3%E5%8F%8A%E5%98%89%E7%8D%8E%E5%88%B6%E5%BA%A6]
 6、[New combat-related devices authorized for decorations(美军勋略符号)](https://www.army.mil/article/184881?a)
 
+## 电子书：《Manager》
+
+https://www.gitbook.com/book/riboseyim/manager/details
+
 更多精彩内容，请扫码关注公众号：@睿哥杂货铺 RSS订阅：https://riboseyim.github.io
 ![微信公众号](http://o8m8ngokc.bkt.clouddn.com/qrcode_for_gh_896dd3dd5255_344.jpg)

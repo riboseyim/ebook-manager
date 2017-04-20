@@ -22,8 +22,6 @@
 **小密圈：**
 ![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_rui_small.png)
 
-
-
 ### VERSION 1.0.1-201702
 
 https://www.gitbook.com/book/riboseyim/manager/details
