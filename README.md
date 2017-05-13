@@ -1,8 +1,7 @@
-# ebook Manager
+#  Manager
 
-## 翻译／整理：[RiboseYim](https://riboseyim.github.io)
+## Author：[RiboseYim](https://riboseyim.github.io)
 
->技术管理
 
 [简书主页](http://www.jianshu.com/u/8cc1dba4bc96)
 [知乎专栏](https://www.zhihu.com/people/riboseyim)
@@ -22,7 +21,7 @@
 **小密圈：**
 ![小密圈_qcode](http://o8m8ngokc.bkt.clouddn.com/riboseyim_id_quanzi_rui_small.png)
 
-### VERSION 1.0.1-201702
+### Latest Version
 
 https://www.gitbook.com/book/riboseyim/manager/details
 
