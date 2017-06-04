@@ -34,7 +34,6 @@ Thanks to my family and colleagues.
 <hr>
 ![微信公众号@睿哥杂货铺](http://o8m8ngokc.bkt.clouddn.com/ID_RiboseYim_201706.png)
 
-
 ## License
 
 **You are free to Share**
